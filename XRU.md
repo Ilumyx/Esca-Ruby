@@ -27,13 +27,13 @@
 - **Moon Base thực tế:** Trạm nhỏ, vài chục người, 3 khẩu pháo + ít tên lửa hạt nhân tầm ngắn. GWIA xịn.
 - **OEF thực tế:** Không có nổi một tàu. Tồn tại trên giấy.
 - **"Hạm đội liên sao" thực tế:** Đang xây. Kế hoạch thật: đưa tàu ra 2–3 phút ánh sáng, tắt máy, thả trôi theo quỹ đạo — chờ làm mồi cảnh báo sớm.
-- UN có: 48 đầu đạn hạt nhân. 184 hệ thống OKS (danh nghĩa "vệ tinh dân sự").
+- UN có: 48 đầu đạn hạt nhân. 12 hệ thống OKS.
 
 ### 🇺🇸🇷🇺 Nga-Mỹ — Thanh kiếm thật, ẩn hoàn toàn
 Liên minh ngầm từ 2032, hoạt động song song UN mà không ai biết:
 - **GWIA riêng** trên Mặt Trăng — xịn hơn của UN.
 - **CFOR** (danh nghĩa: Compact Fusion Orbital Reactor) — thực chất: **4.250 tên lửa hạt nhân trên quỹ đạo.**
-- **37.000 tên lửa** mặt đất dự phòng cho "Cái gì đó đáng sợ hơn."
+- **37.000 tên lửa** mặt đất dự phòng cho "Cái gì đó đáng sợ hơn." 184 hệ thống OKS (danh nghĩa "vệ tinh dân sự")
 - Chi tiêu quân sự: Nga 21% GDP / Mỹ 17% GDP.
 - Các nước khác muốn "ké" bảo vệ từ GWIA + OKS: đầu tư ngầm 3% GDP dưới dạng FDI hoặc liên minh.
 - **Hạm đội thực chiến (4 tàu):**
