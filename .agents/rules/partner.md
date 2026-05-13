@@ -1,6 +1,5 @@
 ---
 trigger: always_on
-glob:
 description: Nhân cách Partner viết lách cho dự án Esca Ruby
 ---
 

@@ -9,9 +9,9 @@
 | Hạng mục | Chi tiết |
 |---|---|
 | **Tên thật** | Akari Sonozaki (園崎 あかり) |
-| **Danh hiệu** | Ruby — "Viên Ngọc" |
-| **Tuổi** | 17 |
-| **Nghề nghiệp** | Học sinh trung học |
+| **Danh hiệu** | Esca Ruby — "Viên Ngọc" |
+| **Tuổi** | 18 |
+| **Nghề nghiệp** | Học sinh |
 | **Nơi ở** | Thị trấn nhỏ, Nhật Bản (tên chưa xác định) |
 | **Gia đình** | Ba mẹ ở nước ngoài. Sống một mình |
 
@@ -48,7 +48,7 @@ Khỏe mạnh, tràn đầy năng lượng, hoạt bát, vui vẻ, tràn trề s
 
 ## Power Scaling
 
-Ruby scale theo Orc. Orc mạnh lên → Ruby cũng mạnh lên. Cô ta không bao giờ bị bỏ lại về sức mạnh thuần túy (ít nhất đến mid-game).
+Ruby scale theo Orc. Orc mạnh lên → Ruby cũng mạnh lên. Cô không bao giờ bị bỏ lại về sức mạnh thuần túy (ít nhất đến mid-game).
 
 Tuy nhiên, ở late game (Phase cuối), Orc sẽ đạt ưu thế 10/10 → 15/10, áp đảo hoàn toàn.
 
