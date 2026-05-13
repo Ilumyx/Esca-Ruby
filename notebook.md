@@ -10,4 +10,15 @@
 - Ruby bị thương/Mana chưa hồi phục, hay tạm mất khả năng chiến dấu ? Orc over power, chính trị gia thăm thị trấn, SFGp hoặc XRU bảo vệ, nếu cần balance ít, để đội SP JSDF quét sạch đám ho he dám đến gần V.I.P => sợ hãi gọi là cái tên: "Green Demons" => biến mất vài ngày, hoặc luôn tránh xa những chỗ có JDSF, tạo khoảng trống || Nếu cần hàng tuần => tháng để balance => Cho đội XRU/JSAF quét tận ổ, miêu tả sức mạnh chênh lệch 1 GBU = 1 orc base, note: không nên cho con ruby chứng kiến, hay nên nhưng vẫn để con nhỏ hồn nhiên như pha lê ?
 - Đã giải quyết: Early game:  Ruby KHÔNG biết. Cô chỉ thấy orc biến mất vài ngày, thở phào, nghĩ mình đánh giỏi quá nên chúng sợ. Genki max. Ngây thơ pha lê. Mid game: Vẫn chứng kiến, nhưng thay vì tự chất vấn về sức mạnh, cô lại nghĩ "Nếu họ mạnh thế... tại sao họ không ở lại? Mình phải cố gắng hơn nữa để bảo vệ mọi người,bảo vệ thị trấn của mình"
 
-bro
+--------------------------------------
+Trường học
+
+- Framework qua loa:
+
+    Mặt cô chủ nhiệm cau có hơn thường ngày, vì phụ huynh dọa kiện lên bộ giáo dục  
+
+    Akari ở lớp B Shingaku: phụ huynh lớp B thấy điểm lớp C còn vượt lớp B, lớp A bỏ xa lớp B, mà ngoài reallife phụ huynh còn cạnh tranh trực tiếp với nhau => gọi điện, thức ép giáo viên B liên tục
+
+    Lớp A Tokushin: Khinh bỉ lớp B, phụ huynh quan hệ ruột thịt với hiệu trưởng
+
+    Lớp C Sogo: Liên kết với lớp A (Tại sao, vì đây là cuộc chiến ngầm giữa Monster Parent, A+C: Thân => B) Spoil đề thi, Lớp C cao điểm hơn lớp B
