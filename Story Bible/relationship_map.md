@@ -111,7 +111,7 @@ graph TD
     AKARI -.- GRP
     GRP -.->|"mid game"| TEAM
     BULLY -.->|"chuyển phe?"| AKARI
-
+nào
     style AKARI fill:#ff4444,color:#fff
     style BF1 fill:#f87171,color:#fff
     style TEAM fill:#10b981,color:#fff
